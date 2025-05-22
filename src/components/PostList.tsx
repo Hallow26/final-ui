@@ -46,14 +46,6 @@ const DeleteIcon = () => (
   </svg>
 );
 
-const GalleryIcon = () => (
-  <img
-    src="https://cdn1.iconfinder.com/data/icons/pixel-perfect-at-16px-volume-1/16/2072-1024.png"
-    alt="gallery"
-    style={{ width: 28, height: 28, cursor: 'pointer' }}
-  />
-);
-
 const profileImg = "https://www.pngmart.com/files/23/Profile-PNG-HD.png";
 const commentProfileImg = "https://www.pngmart.com/files/23/Profile-PNG-HD.png";
 
