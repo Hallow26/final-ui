@@ -22,7 +22,7 @@ interface Post {
 
 const App: React.FC = () => {
   
-  const API_URL = 'https://final-api-730f.onrender.com'; // backend URL
+  const API_URL = 'https://final-api-1-6izl.onrender.com'; // backend URL
 
   const [posts, setPosts] = useState<Post[]>([]);
   const [likedPosts, setLikedPosts] = useState<number[]>(() => {
